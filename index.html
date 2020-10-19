@@ -30,26 +30,26 @@
     <div class="card-columns">
         <div class="card bg-light">
             <div class="card-body text-center">
-                <p class="card-text"></strong>About</strong></p>
-                <a href="about.html" class="btn btn-primary">View</a>
-            </div>
-        </div>
-        <div class="card bg-secondary">
-            <div class="card-body text-center">
-                <p class="card-text">What is Virtualization?</p>
+                <p class="card-text"></strong>What is Virtualization?</strong></p>
                 <a href="virtualization.html" class="btn btn-primary">View</a>
             </div>
         </div>
-        <div class="card bg-success">
+        <div class="card bg-secondary">
             <div class="card-body text-center">
                 <p class="card-text">What is Containerization?</p>
                 <a href="containerization.html" class="btn btn-primary">View</a>
             </div>
         </div>
-        <div class="card bg-danger">
+        <div class="card bg-success">
             <div class="card-body text-center">
                 <p class="card-text">Virtualiztion VS Containerization</p>
                 <a href="compare.html" class="btn btn-primary">View</a>
+            </div>
+        </div>
+        <div class="card bg-danger">
+            <div class="card-body text-center">
+                <p class="card-text">Webserver Using Docker Tutorial</p>
+                <a href="webserver.html" class="btn btn-primary">View</a>
             </div>
         </div>
         <div class="card bg-warning">
@@ -60,13 +60,89 @@
         </div>
         <div class="card bg-info">
             <div class="card-body text-center">
-                <p class="card-text">Using Docker & Pycharm to write Python Code</p>
+                <p class="card-text">Using Docker & Pycharm for Python Code</p>
                 <a href="DockerPycharmPython.html" class="btn btn-primary">View</a>
             </div>
         </div>
     </div>
 </div>
 </div>
+<style>
+    body {
+        margin: 0;
+        font-family: Arial, Helvetica, sans-serif;
+    }
 
+    .navbar {
+        overflow: hidden;
+        background-color: #333;
+        position: fixed;
+        bottom: 0;
+        width: 100%;
+    }
+
+    .navbar a {
+        float: left;
+        display: block;
+        color: #f2f2f2;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+        font-size: 17px;
+    }
+
+    .navbar a:hover {
+        background-color: #ddd;
+        color: black;
+    }
+
+    .navbar a.active {
+        background-color: #4CAF50;
+        color: white;
+    }
+
+    .navbar .icon {
+        display: none;
+    }
+
+    @media screen and (max-width: 600px) {
+        .navbar a:not(:first-child) {display: none;}
+        .navbar a.icon {
+            float: right;
+            display: block;
+        }
+    }
+
+    @media screen and (max-width: 600px) {
+        .navbar.responsive .icon {
+            position: absolute;
+            right: 0;
+            bottom:0;
+        }
+        .navbar.responsive a {
+            float: none;
+            display: block;
+            text-align: left;
+        }
+
+    }
+</style>
+</head>
+<body>
+
+<div class="navbar" id="myNavbar">
+    <a href="about.html" class="active">About</a>
+    <a href="javascript:void(0);" style="font-size:15px;" class="icon" onclick="myFunction()">&#9776;</a>
+</div>
+<script>
+    function myFunction() {
+        var x = document.getElementById("myNavbar");
+        if (x.className === "navbar") {
+            x.className += " responsive";
+        } else {
+            x.className = "navbar";
+        }
+    }
+</script>
 </body>
 </html>
