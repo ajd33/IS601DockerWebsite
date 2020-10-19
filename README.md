@@ -2,17 +2,17 @@
 Team Project: Website on Docker, Linux, and Containerization
 In this assignment I want you to work in a team to create a website that teaches a new user about what Docker is and how it compares to virtualization.  You should use pictures, text, and link to other resources for additional information.  The website should have the following web pages:
 
-1.  What is virtualization
+A 1.  What is virtualization
 
-2.  What is containerization
+W 2.  What is containerization
 
-3.  How do they compare
+A 3.  How do they compare
 
-4.  A tutorial on how to setup a web server on your local computer using docker
+W 4.  A tutorial on how to setup a web server on your local computer using docker
 
-5.  A list of basic Linux commands and what they do   as well as how to log into your docker container.
+A 5.  A list of basic Linux commands and what they do   as well as how to log into your docker container.
 
-6.  A tutorial about how to connect Docker with Pycharm to write python code.
+W 6.  A tutorial about how to connect Docker with Pycharm to write python code.
 
  
 
