@@ -25,7 +25,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a61d27d0-6b2c-4fbb-8715-0aefb2beb1fd" name="Default Changelist" comment="Task: Updated Read ME with project instructions">
+    <list default="true" id="a61d27d0-6b2c-4fbb-8715-0aefb2beb1fd" name="Default Changelist" comment="feature: added text and image">
       <change beforePath="$PROJECT_DIR$/containerization.html" beforeDir="false" afterPath="$PROJECT_DIR$/containerization.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,6 +61,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/images" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -68,6 +69,11 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\wherman\WebstormProjects\IS601DockerWebsite\images" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -78,7 +84,7 @@
       <option name="presentableId" value="Default" />
       <updated>1603130086428</updated>
       <workItem from="1603130087626" duration="701000" />
-      <workItem from="1603233118174" duration="738000" />
+      <workItem from="1603233118174" duration="1047000" />
     </task>
     <task id="LOCAL-00001" summary="Task: Updated Read ME with project instructions">
       <created>1603130150967</created>
@@ -94,7 +100,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603133782499</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="feature: added text and image">
+      <created>1603234229516</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1603234229516</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -128,7 +141,8 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Task: Updated Read ME with project instructions" />
     <MESSAGE value="Feature: Added initial about page. Added about bottom header to index" />
-    <option name="LAST_COMMIT_MESSAGE" value="Feature: Added initial about page. Added about bottom header to index" />
+    <MESSAGE value="feature: added text and image" />
+    <option name="LAST_COMMIT_MESSAGE" value="feature: added text and image" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2503" y="94" key="Vcs.Push.Dialog.v2" timestamp="1603139230606">
