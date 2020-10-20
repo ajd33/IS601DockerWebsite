@@ -16,7 +16,13 @@
         <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </expand>
-    <select />
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:pycharm" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a61d27d0-6b2c-4fbb-8715-0aefb2beb1fd" name="Default Changelist" comment="Task: Updated Read ME with project instructions">
@@ -25,8 +31,6 @@
       <change afterPath="$PROJECT_DIR$/containerization.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/linuxlogin.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/virtualization.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webserver.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -94,7 +98,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603133782499</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="task: added text, image, youtube link">
+      <created>1603237845880</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1603237845880</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -105,7 +116,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="pycharm" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -116,7 +139,8 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Task: Updated Read ME with project instructions" />
     <MESSAGE value="Feature: Added initial about page. Added about bottom header to index" />
-    <option name="LAST_COMMIT_MESSAGE" value="Feature: Added initial about page. Added about bottom header to index" />
+    <MESSAGE value="task: added text, image, youtube link" />
+    <option name="LAST_COMMIT_MESSAGE" value="task: added text, image, youtube link" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2503" y="94" key="Vcs.Push.Dialog.v2" timestamp="1603139230606">
