@@ -20,7 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a61d27d0-6b2c-4fbb-8715-0aefb2beb1fd" name="Default Changelist" comment="Task: Added intial blank html pages">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_10_19_2020_4_54_PM__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_10_19_2020_4_54_PM__Default_Changelist_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_19_2020_4_54_PM__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_19_2020_4_54_PM__Default_Changelist_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/virtualization.html" beforeDir="false" afterPath="$PROJECT_DIR$/virtualization.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +44,7 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="JupyterTrust" id="b1131dae-be4a-491f-854b-80bb0875b18c" />
   <component name="ProjectId" id="1j6gj5IN046fNt9YK0aSpqlJkKV" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -111,7 +114,8 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Task: Updated Read ME with project instructions" />
     <MESSAGE value="Feature: Added initial about page. Added about bottom header to index" />
-    <option name="LAST_COMMIT_MESSAGE" value="Feature: Added initial about page. Added about bottom header to index" />
+    <MESSAGE value="Task: Added photos" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task: Added photos" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2691" y="103" key="FileChooserDialogImpl" timestamp="1603207799773">
