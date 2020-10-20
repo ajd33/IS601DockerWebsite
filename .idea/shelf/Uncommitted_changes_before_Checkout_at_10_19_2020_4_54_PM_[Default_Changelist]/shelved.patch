@@ -1,0 +1,61 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"BranchesTreeState\">\r\n    <expand>\r\n      <path>\r\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n        <item name=\"LOCAL_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n      </path>\r\n      <path>\r\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n        <item name=\"REMOTE_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n      </path>\r\n      <path>\r\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n        <item name=\"REMOTE_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n        <item name=\"GROUP_NODE:origin\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n      </path>\r\n    </expand>\r\n    <select />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"a61d27d0-6b2c-4fbb-8715-0aefb2beb1fd\" name=\"Default Changelist\" comment=\"Task: Updated Read ME with project instructions\">\r\n      <change afterPath=\"$PROJECT_DIR$/DockerPycharmPython.html\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/compare.html\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/containerization.html\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/linuxlogin.html\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/virtualization.html\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/webserver.html\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/about.html\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/about.html\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"HTML File\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_BRANCH_BY_REPOSITORY\">\r\n      <map>\r\n        <entry key=\"$PROJECT_DIR$\" value=\"main\" />\r\n      </map>\r\n    </option>\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"1j6gj5IN046fNt9YK0aSpqlJkKV\" />\r\n  <component name=\"ProjectLevelVcsManager\">\r\n    <ConfirmationsSetting value=\"2\" id=\"Add\" />\r\n  </component>\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">\r\n    <property name=\"ASKED_ADD_EXTERNAL_FILES\" value=\"true\" />\r\n    <property name=\"DefaultHtmlFileTemplate\" value=\"HTML File\" />\r\n    <property name=\"RunOnceActivity.OpenProjectViewOnStart\" value=\"true\" />\r\n    <property name=\"WebServerToolWindowFactoryState\" value=\"false\" />\r\n    <property name=\"node.js.detected.package.eslint\" value=\"true\" />\r\n    <property name=\"node.js.detected.package.tslint\" value=\"true\" />\r\n    <property name=\"node.js.path.for.package.eslint\" value=\"project\" />\r\n    <property name=\"node.js.path.for.package.tslint\" value=\"project\" />\r\n    <property name=\"node.js.selected.package.eslint\" value=\"(autodetect)\" />\r\n    <property name=\"node.js.selected.package.tslint\" value=\"(autodetect)\" />\r\n    <property name=\"vue.rearranger.settings.migration\" value=\"true\" />\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"a61d27d0-6b2c-4fbb-8715-0aefb2beb1fd\" name=\"Default Changelist\" comment=\"\" />\r\n      <created>1603130086428</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1603130086428</updated>\r\n      <workItem from=\"1603130087626\" duration=\"701000\" />\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"Task: Updated Read ME with project instructions\">\r\n      <created>1603130150967</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1603130150968</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"Feature: Added initial index.html\">\r\n      <created>1603133782499</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1603133782499</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"3\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n    <option name=\"oldMeFiltersMigrated\" value=\"true\" />\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <option name=\"ADD_EXTERNAL_FILES_SILENTLY\" value=\"true\" />\r\n    <MESSAGE value=\"Task: Updated Read ME with project instructions\" />\r\n    <MESSAGE value=\"Feature: Added initial about page. Added about bottom header to index\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"Feature: Added initial about page. Added about bottom header to index\" />\r\n  </component>\r\n  <component name=\"WindowStateProjectService\">\r\n    <state x=\"2503\" y=\"94\" key=\"Vcs.Push.Dialog.v2\" timestamp=\"1603139230606\">\r\n      <screen x=\"1982\" y=\"-179\" width=\"1858\" height=\"1080\" />\r\n    </state>\r\n    <state x=\"2503\" y=\"94\" key=\"Vcs.Push.Dialog.v2/62.0.1218.720/1982.-179.1858.1080@1982.-179.1858.1080\" timestamp=\"1603139230606\" />\r\n    <state x=\"2728\" y=\"275\" key=\"com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2\" timestamp=\"1603139295023\">\r\n      <screen x=\"1982\" y=\"-179\" width=\"1858\" height=\"1080\" />\r\n    </state>\r\n    <state x=\"2728\" y=\"275\" key=\"com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/62.0.1218.720/1982.-179.1858.1080@1982.-179.1858.1080\" timestamp=\"1603139295023\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/workspace.xml	(revision 2ed938797b310da09210d350ac845587fb216d9e)
++++ .idea/workspace.xml	(date 1603140836966)
+@@ -19,16 +19,7 @@
+     <select />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="a61d27d0-6b2c-4fbb-8715-0aefb2beb1fd" name="Default Changelist" comment="Task: Updated Read ME with project instructions">
+-      <change afterPath="$PROJECT_DIR$/DockerPycharmPython.html" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/compare.html" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/containerization.html" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/linuxlogin.html" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/virtualization.html" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/webserver.html" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
+-    </list>
++    <list default="true" id="a61d27d0-6b2c-4fbb-8715-0aefb2beb1fd" name="Default Changelist" comment="Task: Added intial blank html pages" />
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -94,7 +85,14 @@
+       <option name="project" value="LOCAL" />
+       <updated>1603133782499</updated>
+     </task>
+-    <option name="localTasksCounter" value="3" />
++    <task id="LOCAL-00003" summary="Task: Added intial blank html pages">
++      <created>1603140829836</created>
++      <option name="number" value="00003" />
++      <option name="presentableId" value="LOCAL-00003" />
++      <option name="project" value="LOCAL" />
++      <updated>1603140829836</updated>
++    </task>
++    <option name="localTasksCounter" value="4" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+@@ -116,13 +114,14 @@
+     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+     <MESSAGE value="Task: Updated Read ME with project instructions" />
+     <MESSAGE value="Feature: Added initial about page. Added about bottom header to index" />
+-    <option name="LAST_COMMIT_MESSAGE" value="Feature: Added initial about page. Added about bottom header to index" />
++    <MESSAGE value="Task: Added intial blank html pages" />
++    <option name="LAST_COMMIT_MESSAGE" value="Task: Added intial blank html pages" />
+   </component>
+   <component name="WindowStateProjectService">
+-    <state x="2503" y="94" key="Vcs.Push.Dialog.v2" timestamp="1603139230606">
++    <state x="2503" y="94" key="Vcs.Push.Dialog.v2" timestamp="1603140833507">
+       <screen x="1982" y="-179" width="1858" height="1080" />
+     </state>
+-    <state x="2503" y="94" key="Vcs.Push.Dialog.v2/62.0.1218.720/1982.-179.1858.1080@1982.-179.1858.1080" timestamp="1603139230606" />
++    <state x="2503" y="94" key="Vcs.Push.Dialog.v2/62.0.1218.720/1982.-179.1858.1080@1982.-179.1858.1080" timestamp="1603140833507" />
+     <state x="2728" y="275" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603139295023">
+       <screen x="1982" y="-179" width="1858" height="1080" />
+     </state>
