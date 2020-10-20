@@ -16,18 +16,17 @@
         <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </expand>
-    <select />
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:container" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a61d27d0-6b2c-4fbb-8715-0aefb2beb1fd" name="Default Changelist" comment="Task: Updated Read ME with project instructions">
-      <change afterPath="$PROJECT_DIR$/DockerPycharmPython.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/compare.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/containerization.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linuxlogin.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/virtualization.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webserver.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/containerization.html" beforeDir="false" afterPath="$PROJECT_DIR$/containerization.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,6 +78,7 @@
       <option name="presentableId" value="Default" />
       <updated>1603130086428</updated>
       <workItem from="1603130087626" duration="701000" />
+      <workItem from="1603233118174" duration="738000" />
     </task>
     <task id="LOCAL-00001" summary="Task: Updated Read ME with project instructions">
       <created>1603130150967</created>
@@ -105,7 +105,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="container" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
