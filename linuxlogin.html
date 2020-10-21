@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Bootstrap Card</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
+</head>
+<body>
+<div class="container">
+    <h2 style="background-color:rgb(248,249,250);">Linux Commands & Docker Log In</h2>
+    <p><strong>Basic Linux Terminal Commands and how to Log In to Docker</strong> </p>
+    <p>by Andrew Drumm</p>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNavDropdown">
+            <ul class="navbar-nav">
+                <li class="nav-item active">
+                    <a class="nav-link" href="index.html">Home <span class="sr-only">(current)</span></a>
+                </li>
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        Navigate To
+                    </a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                        <a class="dropdown-item" href="about.html">About</a>
+                        <a class="dropdown-item" href="virtualization.html"style="background-color:rgb(248,249,250);">What is Virtualization?</a>
+                        <a class="dropdown-item" href="containerization.html"style="background-color:rgb(108,117,125);">What is Containerization?</a>
+                        <a class="dropdown-item" href="compare.html"style="background-color:rgb(40,167,69);">Virtualiztion VS Containerization</a>
+                        <a class="dropdown-item" href="webserver.html"style="background-color:rgb(220,53,69);">Webserver using Docker Tutorial</a>
+                        <a class="dropdown-item" href="linuxlogin.html"style="background-color:rgb(255,193,7);">Linux Commands & Docker Log In</a>
+                        <a class="dropdown-item" href="DockerPycharmPython.html"style="background-color:rgb(23,162,184);">Using Docker & Pycharm to write Python Code</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+    <p>Linux is an open source kernel invented by Linus Torvalds in 1991 and its mascot is a penguin named Tux. This open source kernel has made possible the Linux based operating systems such as Ubuntu and Kali. Linux has become a widely used operating system for development and several other users. Linux has a command terminal at its core which is a very powerful and efficient way of operating it however, it has a steeper learning curve versus a graphical user interface. Learning the basic Linux commands is a powerful tool for anyone who uses Linux regardless if there is a GUI available or not.</p>
+    <img src=".\images\tux.jpg" alt="Linux Penguin Tux">
+    <p>Basic Linux Commands: </p>
+<p><b>1. pwd </b></p>
+<p>Finds out the path of the current working directory (folder) you’re in. </p>
+    <p><b>2. cd</b></p>
+<p>Navigates through directories. cd <folder name> goes to a folder located in your current path. You can also use cd /folder1/folder1.1/destination folder for example. </p>
+<p>cd .. (with two dots) to move one directory up</p>
+<p>cd to go straight to the home folder</p>
+<p>cd- (with a hyphen) to move to your previous directory</p>
+<p>Note that Linux folders are case sensitive. </p>
+
+<p><b>3. ls</b></p>
+<p>The ls command is used to view the contents of a directory. By default, this command will display the contents of your current working directory. </p>
+<p>If you want to see the content of other directories, type ls and then the directory’s path. For example, enter ls /home/username/Documents to view the content of Documents. </p>
+<p>There are variations you can use with the ls command: </p>
+<p>ls -R will list all the files in the sub-directories as well</p>
+<p>ls -a will show the hidden files</p>
+<p>ls -al will list the files and directories with detailed information like the permissions, size, owner, etc. </p>
+
+<p><b>4. cat</b></p>
+<p>cat (short for concatenate) is one of the most frequently used commands in Linux. It is used to list the contents of a file on the standard output (sdout). To run this command, type cat followed by the file’s name and its extension. For instance: cat file.txt. </p>
+
+<p><b>5. cp</b></p>
+Use the cp command to copy files from the current directory to a different directory. For instance, the command cp scenery.jpg /home/username/Pictures would create a copy of scenery.jpg (from your current directory) into the Pictures directory. </p>
+
+<p><b>6. mv</b></p>
+<p>The primary use of the mv command is to move files, although it can also be used to rename files.
+The arguments in mv are similar to the cp command. You need to type mv, the file’s name, and the destination’s directory. For example: mv file.txt /home/username/Documents.
+To rename files, the Linux command is mv oldname.ext newname.ext</p>
+
+<p><b>7. mkdir </b></p>
+<p>Use mkdir command to make a new directory — if you type mkdir Music it will create a directory called Music.
+</p>
+<p><b>8. rmdir </b></p>
+<p>If you need to delete a directory, use the rmdir command. However, rmdir only allows you to delete empty directories. </p>
+
+<p><b>9. rm command</b></p>
+<p>The rm command is used to delete directories and the contents within them. If you only want to delete the directory — as an alternative to rmdir — use rm -r. </p>
+<p>Note: Be very careful with this command and double-check which directory you are in. This will delete everything and there is no undo. </p>
+
+<p><b>10. touch command</b></p>
+<p>The touch command allows you to create a blank new file through the Linux command line. As an example, enter touch /home/username/Documents/Web.html to create an HTML file entitled Web under the Documents directory. </p>
+
+<p>The command terminal is also critical in using Docker. You simply type in docker then the docker command after that to utilize it’s functions. I will go over how to log in to docker. </p>
+<p>The basic format for logging in is: </p>
+<p><i>docker login [OPTIONS] [SERVER]</i> </p>
+<style>
+table, th, td {
+  border: 1px solid black;
+}
+table.center {
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
+<body>
+
+<table class="center">
+  <tr>
+    <th>Name, shorthand</th>
+    <th>Default	Description</th>
+  </tr>
+  <tr>
+    <td>--password , -p</td>
+    <td>Password</td>
+  </tr>
+  <tr>
+    <td>--password-stdin</td>
+    <td>Take the password from stdin</td>
+  </tr>
+    <tr>
+    <td>--username , -u	</td>
+    <td>Username</td>
+  </tr>
+</table>
+<p>For example, to log in to a self-hosted registry you would type in:
+<i>docker login localhost:8080</i></p>
+</div>
+</div>
+</div>
+</body>
+</html>
+
