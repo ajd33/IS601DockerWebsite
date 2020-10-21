@@ -20,14 +20,21 @@
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="BRANCH:container" type="e8cecc67:BranchNodeDescriptor" />
+
+        <item name="BRANCH:webserver" type="e8cecc67:BranchNodeDescriptor" />
+
       </path>
     </select>
   </component>
   <component name="ChangeListManager">
 
-    <list default="true" id="a61d27d0-6b2c-4fbb-8715-0aefb2beb1fd" name="Default Changelist" comment="feature: added text and image">
-      <change beforePath="$PROJECT_DIR$/containerization.html" beforeDir="false" afterPath="$PROJECT_DIR$/containerization.html" afterDir="false" />
+
+    <list default="true" id="a61d27d0-6b2c-4fbb-8715-0aefb2beb1fd" name="Default Changelist" comment="Task: Updated Read ME with project instructions">
+      <change afterPath="$PROJECT_DIR$/images/docker.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/helloworld.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webserver.html" beforeDir="false" afterPath="$PROJECT_DIR$/webserver.html" afterDir="false" />
+
 
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,7 +52,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="main" />
+        <entry key="$PROJECT_DIR$" value="container" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -167,6 +174,12 @@
     <state x="2728" y="275" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603238383960">
       <screen x="1982" y="-179" width="1858" height="1080" />
     </state>
-    <state x="2728" y="275" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/62.0.1218.720/1982.-179.1858.1080@1982.-179.1858.1080" timestamp="1603238383960" />
+
+    <state x="2728" y="275" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/62.0.1218.720/1982.-179.1858.1080@1982.-179.1858.1080" timestamp="1603139295023" />
+    <state x="2650" y="233" key="git4idea.branch.GitSmartOperationDialog" timestamp="1603234453670">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2650" y="233" key="git4idea.branch.GitSmartOperationDialog/0.0.1920.1040/1920.0.1920.1040/-1920.4.1920.1040@1920.0.1920.1040" timestamp="1603234453670" />
+
   </component>
 </project>
