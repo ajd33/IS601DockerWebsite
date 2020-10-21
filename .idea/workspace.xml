@@ -21,7 +21,7 @@
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
 
-        <item name="BRANCH:webserver" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:pycharm" type="e8cecc67:BranchNodeDescriptor" />
 
       </path>
     </select>
@@ -29,11 +29,8 @@
   <component name="ChangeListManager">
 
 
-    <list default="true" id="a61d27d0-6b2c-4fbb-8715-0aefb2beb1fd" name="Default Changelist" comment="Task: Updated Read ME with project instructions">
-      <change afterPath="$PROJECT_DIR$/images/docker.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/helloworld.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webserver.html" beforeDir="false" afterPath="$PROJECT_DIR$/webserver.html" afterDir="false" />
+    <list default="true" id="a61d27d0-6b2c-4fbb-8715-0aefb2beb1fd" name="Default Changelist" comment="task: added text and images">
+      <change beforePath="$PROJECT_DIR$/DockerPycharmPython.html" beforeDir="false" afterPath="$PROJECT_DIR$/DockerPycharmPython.html" afterDir="false" />
 
 
     </list>
@@ -115,15 +112,23 @@
       <updated>1603133782499</updated>
     </task>
 
-    <task id="LOCAL-00003" summary="feature: added text and image">
-      <created>1603234229516</created>
+    <task id="LOCAL-00003" summary="task: added text, image, youtube link">
+      <created>1603237845880</created>
       <option name="number" value="00003" />
       <option name="presentableId" value="LOCAL-00003" />
       <option name="project" value="LOCAL" />
-      <updated>1603234229516</updated>
+      <updated>1603237845880</updated>
+    </task>
+    <task id="LOCAL-00004" summary="task: added text and images">
+      <created>1603241216247</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1603241216247</updated>
 
     </task>
-    <option name="localTasksCounter" value="4" />
+    <option name="localTasksCounter" value="5" />
+
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -140,7 +145,9 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="container" />
+
+                        <option value="pycharm" />
+
                       </list>
                     </value>
                   </entry>
@@ -158,8 +165,11 @@
     <MESSAGE value="Task: Updated Read ME with project instructions" />
     <MESSAGE value="Feature: Added initial about page. Added about bottom header to index" />
 
-    <MESSAGE value="feature: added text and image" />
-    <option name="LAST_COMMIT_MESSAGE" value="feature: added text and image" />
+
+    <MESSAGE value="task: added text, image, youtube link" />
+    <MESSAGE value="task: added text and images" />
+    <option name="LAST_COMMIT_MESSAGE" value="task: added text and images" />
+
 
   </component>
   <component name="WindowStateProjectService">
