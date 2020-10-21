@@ -25,11 +25,13 @@
     </select>
   </component>
   <component name="ChangeListManager">
+
     <list default="true" id="a61d27d0-6b2c-4fbb-8715-0aefb2beb1fd" name="Default Changelist" comment="Task: Updated Read ME with project instructions">
       <change afterPath="$PROJECT_DIR$/images/docker.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/images/helloworld.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/webserver.html" beforeDir="false" afterPath="$PROJECT_DIR$/webserver.html" afterDir="false" />
+
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +53,7 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="JupyterTrust" id="b1131dae-be4a-491f-854b-80bb0875b18c" />
   <component name="ProjectId" id="1j6gj5IN046fNt9YK0aSpqlJkKV" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -64,7 +67,9 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+
     <property name="last_opened_file_path" value="$PROJECT_DIR$/images" />
+
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -87,6 +92,7 @@
       <option name="presentableId" value="Default" />
       <updated>1603130086428</updated>
       <workItem from="1603130087626" duration="701000" />
+      <workItem from="1603207754481" duration="52000" />
     </task>
     <task id="LOCAL-00001" summary="Task: Updated Read ME with project instructions">
       <created>1603130150967</created>
@@ -102,7 +108,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603133782499</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Feature: added comparison content">
+      <created>1603238940293</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1603238940293</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -124,20 +137,28 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Task: Updated Read ME with project instructions" />
     <MESSAGE value="Feature: Added initial about page. Added about bottom header to index" />
-    <option name="LAST_COMMIT_MESSAGE" value="Feature: Added initial about page. Added about bottom header to index" />
+    <MESSAGE value="Task: Added photos" />
+    <MESSAGE value="Feature: added comparison content" />
+    <option name="LAST_COMMIT_MESSAGE" value="Feature: added comparison content" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="2691" y="103" key="FileChooserDialogImpl" timestamp="1603207799773">
+      <screen x="1982" y="-179" width="1858" height="1080" />
+    </state>
+    <state x="2691" y="103" key="FileChooserDialogImpl/62.0.1218.720/1982.-179.1858.1080@1982.-179.1858.1080" timestamp="1603207799773" />
     <state x="2503" y="94" key="Vcs.Push.Dialog.v2" timestamp="1603139230606">
       <screen x="1982" y="-179" width="1858" height="1080" />
     </state>
     <state x="2503" y="94" key="Vcs.Push.Dialog.v2/62.0.1218.720/1982.-179.1858.1080@1982.-179.1858.1080" timestamp="1603139230606" />
-    <state x="2728" y="275" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603139295023">
+    <state x="2728" y="275" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603238383960">
       <screen x="1982" y="-179" width="1858" height="1080" />
     </state>
+
     <state x="2728" y="275" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/62.0.1218.720/1982.-179.1858.1080@1982.-179.1858.1080" timestamp="1603139295023" />
     <state x="2650" y="233" key="git4idea.branch.GitSmartOperationDialog" timestamp="1603234453670">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2650" y="233" key="git4idea.branch.GitSmartOperationDialog/0.0.1920.1040/1920.0.1920.1040/-1920.4.1920.1040@1920.0.1920.1040" timestamp="1603234453670" />
+
   </component>
 </project>
