@@ -20,17 +20,21 @@
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+
         <item name="BRANCH:webserver" type="e8cecc67:BranchNodeDescriptor" />
+
       </path>
     </select>
   </component>
   <component name="ChangeListManager">
+
 
     <list default="true" id="a61d27d0-6b2c-4fbb-8715-0aefb2beb1fd" name="Default Changelist" comment="Task: Updated Read ME with project instructions">
       <change afterPath="$PROJECT_DIR$/images/docker.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/images/helloworld.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/webserver.html" beforeDir="false" afterPath="$PROJECT_DIR$/webserver.html" afterDir="false" />
+
 
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -92,7 +96,9 @@
       <option name="presentableId" value="Default" />
       <updated>1603130086428</updated>
       <workItem from="1603130087626" duration="701000" />
-      <workItem from="1603207754481" duration="52000" />
+
+      <workItem from="1603233118174" duration="1047000" />
+
     </task>
     <task id="LOCAL-00001" summary="Task: Updated Read ME with project instructions">
       <created>1603130150967</created>
@@ -108,12 +114,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603133782499</updated>
     </task>
-    <task id="LOCAL-00003" summary="Feature: added comparison content">
-      <created>1603238940293</created>
+
+    <task id="LOCAL-00003" summary="feature: added text and image">
+      <created>1603234229516</created>
       <option name="number" value="00003" />
       <option name="presentableId" value="LOCAL-00003" />
       <option name="project" value="LOCAL" />
-      <updated>1603238940293</updated>
+      <updated>1603234229516</updated>
+
     </task>
     <option name="localTasksCounter" value="4" />
     <servers />
@@ -126,7 +134,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="container" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -137,9 +157,10 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Task: Updated Read ME with project instructions" />
     <MESSAGE value="Feature: Added initial about page. Added about bottom header to index" />
-    <MESSAGE value="Task: Added photos" />
-    <MESSAGE value="Feature: added comparison content" />
-    <option name="LAST_COMMIT_MESSAGE" value="Feature: added comparison content" />
+
+    <MESSAGE value="feature: added text and image" />
+    <option name="LAST_COMMIT_MESSAGE" value="feature: added text and image" />
+
   </component>
   <component name="WindowStateProjectService">
     <state x="2691" y="103" key="FileChooserDialogImpl" timestamp="1603207799773">
