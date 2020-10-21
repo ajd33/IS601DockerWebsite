@@ -20,10 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a61d27d0-6b2c-4fbb-8715-0aefb2beb1fd" name="Default Changelist" comment="Feature: added virtualization content">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/compare.html" beforeDir="false" afterPath="$PROJECT_DIR$/compare.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/bigsmall.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/bigsmall.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/linuxlogin.html" beforeDir="false" afterPath="$PROJECT_DIR$/linuxlogin.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,7 +91,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603133782499</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Feature: added comparison content">
+      <created>1603238940293</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1603238940293</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -116,7 +121,8 @@
     <MESSAGE value="Task: Updated Read ME with project instructions" />
     <MESSAGE value="Feature: Added initial about page. Added about bottom header to index" />
     <MESSAGE value="Task: Added photos" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task: Added photos" />
+    <MESSAGE value="Feature: added comparison content" />
+    <option name="LAST_COMMIT_MESSAGE" value="Feature: added comparison content" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2691" y="103" key="FileChooserDialogImpl" timestamp="1603207799773">
