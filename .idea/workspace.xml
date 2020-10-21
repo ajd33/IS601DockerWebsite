@@ -20,14 +20,18 @@
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+
         <item name="BRANCH:pycharm" type="e8cecc67:BranchNodeDescriptor" />
+
       </path>
     </select>
   </component>
   <component name="ChangeListManager">
 
+
     <list default="true" id="a61d27d0-6b2c-4fbb-8715-0aefb2beb1fd" name="Default Changelist" comment="task: added text and images">
       <change beforePath="$PROJECT_DIR$/DockerPycharmPython.html" beforeDir="false" afterPath="$PROJECT_DIR$/DockerPycharmPython.html" afterDir="false" />
+
 
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,7 +49,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="main" />
+        <entry key="$PROJECT_DIR$" value="container" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -89,7 +93,9 @@
       <option name="presentableId" value="Default" />
       <updated>1603130086428</updated>
       <workItem from="1603130087626" duration="701000" />
-      <workItem from="1603207754481" duration="52000" />
+
+      <workItem from="1603233118174" duration="1047000" />
+
     </task>
     <task id="LOCAL-00001" summary="Task: Updated Read ME with project instructions">
       <created>1603130150967</created>
@@ -119,6 +125,7 @@
       <option name="presentableId" value="LOCAL-00004" />
       <option name="project" value="LOCAL" />
       <updated>1603241216247</updated>
+
     </task>
     <option name="localTasksCounter" value="5" />
 
@@ -138,7 +145,9 @@
                   <entry key="branch">
                     <value>
                       <list>
+
                         <option value="pycharm" />
+
                       </list>
                     </value>
                   </entry>
@@ -156,9 +165,11 @@
     <MESSAGE value="Task: Updated Read ME with project instructions" />
     <MESSAGE value="Feature: Added initial about page. Added about bottom header to index" />
 
+
     <MESSAGE value="task: added text, image, youtube link" />
     <MESSAGE value="task: added text and images" />
     <option name="LAST_COMMIT_MESSAGE" value="task: added text and images" />
+
 
   </component>
   <component name="WindowStateProjectService">
@@ -173,6 +184,12 @@
     <state x="2728" y="275" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603238383960">
       <screen x="1982" y="-179" width="1858" height="1080" />
     </state>
-    <state x="2728" y="275" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/62.0.1218.720/1982.-179.1858.1080@1982.-179.1858.1080" timestamp="1603238383960" />
+
+    <state x="2728" y="275" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/62.0.1218.720/1982.-179.1858.1080@1982.-179.1858.1080" timestamp="1603139295023" />
+    <state x="2650" y="233" key="git4idea.branch.GitSmartOperationDialog" timestamp="1603234453670">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2650" y="233" key="git4idea.branch.GitSmartOperationDialog/0.0.1920.1040/1920.0.1920.1040/-1920.4.1920.1040@1920.0.1920.1040" timestamp="1603234453670" />
+
   </component>
 </project>
