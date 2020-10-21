@@ -25,14 +25,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a61d27d0-6b2c-4fbb-8715-0aefb2beb1fd" name="Default Changelist" comment="Task: Updated Read ME with project instructions">
-      <change afterPath="$PROJECT_DIR$/images/Picture2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Picture3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Picture4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Picture5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Picture6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Picture7.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="a61d27d0-6b2c-4fbb-8715-0aefb2beb1fd" name="Default Changelist" comment="task: added text and images">
       <change beforePath="$PROJECT_DIR$/DockerPycharmPython.html" beforeDir="false" afterPath="$PROJECT_DIR$/DockerPycharmPython.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -113,7 +106,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603237845880</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="task: added text and images">
+      <created>1603241216247</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1603241216247</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -148,7 +148,8 @@
     <MESSAGE value="Task: Updated Read ME with project instructions" />
     <MESSAGE value="Feature: Added initial about page. Added about bottom header to index" />
     <MESSAGE value="task: added text, image, youtube link" />
-    <option name="LAST_COMMIT_MESSAGE" value="task: added text, image, youtube link" />
+    <MESSAGE value="task: added text and images" />
+    <option name="LAST_COMMIT_MESSAGE" value="task: added text and images" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2503" y="94" key="Vcs.Push.Dialog.v2" timestamp="1603139230606">
