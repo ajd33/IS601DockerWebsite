@@ -26,12 +26,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a61d27d0-6b2c-4fbb-8715-0aefb2beb1fd" name="Default Changelist" comment="Task: Updated Read ME with project instructions">
-      <change afterPath="$PROJECT_DIR$/DockerPycharmPython.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/compare.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/containerization.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linuxlogin.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/virtualization.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Picture2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Picture3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Picture4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Picture5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Picture6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Picture7.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DockerPycharmPython.html" beforeDir="false" afterPath="$PROJECT_DIR$/DockerPycharmPython.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,6 +68,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/images" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -73,6 +76,11 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\wherman\WebstormProjects\IS601DockerWebsite\images" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
