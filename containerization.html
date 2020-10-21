@@ -49,7 +49,14 @@
             <p class="card-text">.</p>
         </div>
     </div>
-<br>
+    <p>You can think of containerization as a multi-layered cake.
+    <ol>
+        <li>At the bottom, the hardware of the infrastructure, including it’s CPUs. Docker owns this hardware, or whatever containerization solution you are using.</li>
+        <li>Then there is the OS and its kernal, the latter being the bridge between the software of the OS and the hardware of the underlying system.</li>
+        <li>Then there is the container engine and its guest operating system, which the containerization solution being used is particular to, sit at the top of the host operating system.</li>
+        <li>At the very top are the binaires and libraries (bins) for each application and the apps themselves running in their isolated containers.</li>
+    </ol>
+    </p>
     <p><a href="https://www.youtube.com/watch?v=0qotVMX-J5s">Click here for a video further explaining containerization</a></p>
 
 </div>
