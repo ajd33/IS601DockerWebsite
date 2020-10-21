@@ -20,19 +20,16 @@
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-
-        <item name="BRANCH:pycharm" type="e8cecc67:BranchNodeDescriptor" />
-
+        <item name="BRANCH:main" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </select>
   </component>
   <component name="ChangeListManager">
-
-
-    <list default="true" id="a61d27d0-6b2c-4fbb-8715-0aefb2beb1fd" name="Default Changelist" comment="task: added text and images">
-      <change beforePath="$PROJECT_DIR$/DockerPycharmPython.html" beforeDir="false" afterPath="$PROJECT_DIR$/DockerPycharmPython.html" afterDir="false" />
-
-
+    <list default="true" id="a61d27d0-6b2c-4fbb-8715-0aefb2beb1fd" name="Default Changelist" comment="task: added text and images - the rest.">
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_10_19_2020_4_54_PM__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_10_19_2020_4_54_PM__Default_Changelist_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_19_2020_4_54_PM__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_19_2020_4_54_PM__Default_Changelist_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/containerization.html" beforeDir="false" afterPath="$PROJECT_DIR$/containerization.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,12 +46,11 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="container" />
+        <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="JupyterTrust" id="b1131dae-be4a-491f-854b-80bb0875b18c" />
   <component name="ProjectId" id="1j6gj5IN046fNt9YK0aSpqlJkKV" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -68,9 +64,6 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/images" />
-
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -78,11 +71,6 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="vue.rearranger.settings.migration" value="true" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\wherman\WebstormProjects\IS601DockerWebsite\images" />
-    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -93,9 +81,6 @@
       <option name="presentableId" value="Default" />
       <updated>1603130086428</updated>
       <workItem from="1603130087626" duration="701000" />
-
-      <workItem from="1603233118174" duration="1047000" />
-
     </task>
     <task id="LOCAL-00001" summary="Task: Updated Read ME with project instructions">
       <created>1603130150967</created>
@@ -111,24 +96,7 @@
       <option name="project" value="LOCAL" />
       <updated>1603133782499</updated>
     </task>
-
-    <task id="LOCAL-00003" summary="task: added text, image, youtube link">
-      <created>1603237845880</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1603237845880</updated>
-    </task>
-    <task id="LOCAL-00004" summary="task: added text and images">
-      <created>1603241216247</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1603241216247</updated>
-
-    </task>
-    <option name="localTasksCounter" value="5" />
-
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -145,9 +113,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-
-                        <option value="pycharm" />
-
+                        <option value="main" />
                       </list>
                     </value>
                   </entry>
@@ -164,32 +130,21 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Task: Updated Read ME with project instructions" />
     <MESSAGE value="Feature: Added initial about page. Added about bottom header to index" />
-
-
-    <MESSAGE value="task: added text, image, youtube link" />
-    <MESSAGE value="task: added text and images" />
-    <option name="LAST_COMMIT_MESSAGE" value="task: added text and images" />
-
-
+    <option name="LAST_COMMIT_MESSAGE" value="Feature: Added initial about page. Added about bottom header to index" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2691" y="103" key="FileChooserDialogImpl" timestamp="1603207799773">
-      <screen x="1982" y="-179" width="1858" height="1080" />
+    <state x="2104" y="86" key="MergeDialog" timestamp="1603242733296">
+      <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2691" y="103" key="FileChooserDialogImpl/62.0.1218.720/1982.-179.1858.1080@1982.-179.1858.1080" timestamp="1603207799773" />
+    <state x="2104" y="86" key="MergeDialog/0.0.1920.1040/1920.0.1920.1040/-1920.4.1920.1040@1920.0.1920.1040" timestamp="1603242733296" />
     <state x="2503" y="94" key="Vcs.Push.Dialog.v2" timestamp="1603139230606">
       <screen x="1982" y="-179" width="1858" height="1080" />
     </state>
     <state x="2503" y="94" key="Vcs.Push.Dialog.v2/62.0.1218.720/1982.-179.1858.1080@1982.-179.1858.1080" timestamp="1603139230606" />
-    <state x="2728" y="275" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603238383960">
-      <screen x="1982" y="-179" width="1858" height="1080" />
-    </state>
-
-    <state x="2728" y="275" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/62.0.1218.720/1982.-179.1858.1080@1982.-179.1858.1080" timestamp="1603139295023" />
-    <state x="2650" y="233" key="git4idea.branch.GitSmartOperationDialog" timestamp="1603234453670">
+    <state x="2691" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603242714955">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2650" y="233" key="git4idea.branch.GitSmartOperationDialog/0.0.1920.1040/1920.0.1920.1040/-1920.4.1920.1040@1920.0.1920.1040" timestamp="1603234453670" />
-
+    <state x="2691" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/1920.0.1920.1040/-1920.4.1920.1040@1920.0.1920.1040" timestamp="1603242714955" />
+    <state x="2728" y="275" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/62.0.1218.720/1982.-179.1858.1080@1982.-179.1858.1080" timestamp="1603139295023" />
   </component>
 </project>
